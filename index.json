@@ -1,0 +1,11 @@
+{
+  "org": "alexcrichton",
+  "repo": "curl-rust",
+  "versions": [
+    {
+      "commit": "bae5dc561e0711b4982eeddda8b5dbac45d531f1",
+      "tag": "curl-sys-0.4.90",
+      "parsed_at": "2026-11-22T14:25:13.126782+00:00"
+    }
+  ]
+}
